@@ -1,2 +1,24 @@
-2023-12-15 20:39:09,904 - INFO - accepted connection from john at 127.0.0.1: 59303
-2023-12-15 20:39:09,905 - INFO - join message for john broadcast
+2023-12-18 16:08:44,285 - INFO - accepted connection from john at 127.0.0.1: 61684
+2023-12-18 16:08:44,285 - INFO - join message for john broadcast
+2023-12-18 16:08:47,357 - INFO - john broadcasts '[ss'
+2023-12-18 16:09:01,872 - ERROR - error receiving data from john - server closed connection
+2023-12-18 16:09:01,872 - INFO - john disconnected from server
+2023-12-18 16:09:06,331 - INFO - accepted connection from john at 127.0.0.1: 61688
+2023-12-18 16:09:06,331 - INFO - join message for john broadcast
+2023-12-18 16:09:07,801 - INFO - john broadcasts '{s'
+2023-12-18 16:09:09,639 - INFO - john broadcasts '[s'
+2023-12-18 16:09:29,076 - ERROR - error receiving data from john - server closed connection
+2023-12-18 16:09:29,076 - INFO - john disconnected from server
+2023-12-18 16:09:31,768 - INFO - accepted connection from john at 127.0.0.1: 61695
+2023-12-18 16:09:31,768 - INFO - join message for john broadcast
+2023-12-18 16:09:33,772 - INFO - john broadcasts '[ss'
+2023-12-18 16:09:53,071 - ERROR - error receiving data from john - server closed connection
+2023-12-18 16:09:53,071 - INFO - john disconnected from server
+2023-12-18 16:09:54,735 - INFO - accepted connection from john at 127.0.0.1: 61700
+2023-12-18 16:09:54,735 - INFO - join message for john broadcast
+2023-12-18 16:09:57,425 - INFO - john broadcasts '[s'
+2023-12-18 16:11:00,640 - INFO - john broadcasts 'FILE_DOWNLOAD_HEADER'
+2023-12-18 16:11:37,294 - ERROR - error receiving data from john - server closed connection
+2023-12-18 16:11:37,294 - INFO - john disconnected from server
+2023-12-18 16:11:42,855 - INFO - accepted connection from john at 127.0.0.1: 61722
+2023-12-18 16:11:42,855 - INFO - join message for john broadcast
