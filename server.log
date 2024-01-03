@@ -1,2 +1,12 @@
-2023-12-15 20:39:09,904 - INFO - accepted connection from john at 127.0.0.1: 59303
-2023-12-15 20:39:09,905 - INFO - join message for john broadcast
+2023-12-30 17:31:04,653 - INFO - accepted connection from john at 127.0.0.1: 56453
+2023-12-30 17:31:04,653 - INFO - join message for john broadcast
+2023-12-30 17:31:15,977 - INFO - accepted connection from jane at 127.0.0.1: 56455
+2023-12-30 17:31:15,977 - INFO - join message for jane broadcast
+2023-12-30 17:31:20,732 - INFO - john broadcasts 'test'
+2023-12-30 17:31:33,159 - INFO - Unicast started from john to jane
+2023-12-30 17:31:40,919 - INFO - john unicasts 'help' to jane
+2023-12-30 17:31:56,912 - INFO - john exits unicast with jane
+2023-12-30 17:32:04,027 - INFO - sent downloadables list to john
+2023-12-30 17:32:17,541 - INFO - Sent file 'vid.mp4' to john
+2023-12-30 17:32:23,421 - INFO - john disconnected from server
+2023-12-30 17:32:29,802 - INFO - jane disconnected from server
